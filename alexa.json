@@ -1,0 +1,963 @@
+{
+    "languageModel": {
+      "types": [
+        {
+          "name": "ANIMAL",
+          "values": [
+            {
+              "id": null,
+              "name": {
+                "value": "slug",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "monkey",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "dog",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "horse",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "zebra",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "sloth",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "cat",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "hummingbird",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "parrot",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "goose",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "slugspider",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "tarantula",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "lion",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "cheetah",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "jaguar",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "panther",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "puma",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "ocelot",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "grouse",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "hen",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "rooster",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "chicken",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "penguin",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "salmon",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "tuna",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "sparrow",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "pigeon",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "ferret",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "alligator",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "anteater",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "armadillo",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "baboon",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "badger",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "barracuda",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "bat",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "bee",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "butterfly",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "camel",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "buffalo",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "crocodile",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "duck",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "elephant",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "fox",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "coyote",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "gazelle",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "gorilla",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "hamster",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "rabbit",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "jellyfish",
+                "synonyms": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "ANY",
+          "values": [
+            {
+              "id": null,
+              "name": {
+                "value": "Isaac Newton",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "Earth",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "Google",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "green",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "grass",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "buffalo",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "100",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "baseball",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "trains",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "summer",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "Czech Republic",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "Russia",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "Pacific ocean",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "theory",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "the big bang",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "raspberry",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "amazon",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "tahoe",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "dogpatch",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "japan",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "rice",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "climbing",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "inventor",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "cars",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "stocks",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "bitcoin",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "ethereum",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "crytocurrency",
+                "synonyms": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "APPLIANCE",
+          "values": [
+            {
+              "id": null,
+              "name": {
+                "value": "dishwasher",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "microwave",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "crisper",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "waffle iron",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "toaster",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "oven",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "television",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "radio",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "refrigerator",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "cabinet",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "washcloth",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "towel",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "toothpaste",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "vacuum",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "plunger",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "laptop",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "satellite",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "sponge",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "ottoman",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "couch",
+                "synonyms": []
+              }
+            }
+          ]
+        },
+        {
+          "name": "PAGE",
+          "values": [
+            {
+              "id": null,
+              "name": {
+                "value": "main menu",
+                "synonyms": [
+                  "main menu",
+                  "home",
+                  "beginning"
+                ]
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "help",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "about",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "privacy",
+                "synonyms": [
+                  "privacy policy",
+                  "privacy details",
+                  "privacy information"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "name": "TEAMNAME",
+          "values": [
+            {
+              "id": null,
+              "name": {
+                "value": "one",
+                "synonyms": []
+              }
+            },
+            {
+              "id": null,
+              "name": {
+                "value": "two",
+                "synonyms": [
+                  "two",
+                  "2",
+                  "to"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "intents": [
+        {
+          "name": "AddPlayersToTeam",
+          "samples": [
+            "add {names} to team {teamName}"
+          ],
+          "slots": [
+            {
+              "name": "names",
+              "type": "AMAZON.US_FIRST_NAME",
+              "samples": [
+                "{names}"
+              ]
+            },
+            {
+              "name": "teamName",
+              "type": "TEAMNAME",
+              "samples": [
+                "{teamName}"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "Bank",
+          "samples": [
+            "bank",
+            "bank coin",
+            "bank coins",
+            "bank my points",
+            "bank one hundred coins",
+            "bank points",
+            "bank two hundred points"
+          ],
+          "slots": []
+        },
+        {
+          "name": "ConfirmRoster",
+          "samples": [
+            "confirm roster",
+            "confirm team",
+            "confirm teams",
+            "start trivia"
+          ],
+          "slots": []
+        },
+        {
+          "name": "Connect",
+          "samples": [
+            "connect to {color} {animal} {appliance}",
+            "{color} {animal} {appliance}",
+            "connect to code {color} {animal} {appliance}"
+          ],
+          "slots": [
+            {
+              "name": "animal",
+              "type": "ANIMAL"
+            },
+            {
+              "name": "color",
+              "type": "AMAZON.Color"
+            },
+            {
+              "name": "appliance",
+              "type": "APPLIANCE"
+            }
+          ]
+        },
+        {
+          "name": "GoBack",
+          "samples": [
+            "go back"
+          ],
+          "slots": []
+        },
+        {
+          "name": "GoTo",
+          "samples": [
+            "go to main menu",
+            "go to help page",
+            "go to help",
+            "go to about page",
+            "go to about",
+            "go to privacy page",
+            "go to privacy policy",
+            "navigate to help",
+            "navigate to help page"
+          ],
+          "slots": []
+        },
+        {
+          "name": "GuessIntent",
+          "samples": [
+            "my guess is {guess}"
+          ],
+          "slots": [
+            {
+              "name": "guess",
+              "type": "ANY"
+            }
+          ]
+        },
+        {
+          "name": "NewGame",
+          "samples": [
+            "create a new game",
+            "start game",
+            "start new game"
+          ],
+          "slots": []
+        },
+        {
+          "name": "Play",
+          "samples": [
+            "keep going",
+            "play",
+            "play next round"
+          ],
+          "slots": []
+        },
+        {
+          "name": "RemovePlayersFromTeam",
+          "samples": [
+            "remove {names} from team {teamName}"
+          ],
+          "slots": [
+            {
+              "name": "names",
+              "type": "AMAZON.US_FIRST_NAME"
+            },
+            {
+              "name": "teamName",
+              "type": "TEAMNAME"
+            }
+          ]
+        }
+      ],
+      "invocationName": "refresh trivia"
+    },
+    "prompts": [
+      {
+        "id": "Elicit.Intent-AddPlayersToTeam.IntentSlot-names",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "what are the player names?"
+          }
+        ]
+      },
+      {
+        "id": "Elicit.Intent-AddPlayersToTeam.IntentSlot-teamName",
+        "variations": [
+          {
+            "type": "PlainText",
+            "value": "Which team?"
+          }
+        ]
+      }
+    ],
+    "dialog": {
+      "intents": [
+        {
+          "name": "AddPlayersToTeam",
+          "confirmationRequired": false,
+          "prompts": {},
+          "slots": [
+            {
+              "name": "names",
+              "type": "AMAZON.US_FIRST_NAME",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Intent-AddPlayersToTeam.IntentSlot-names"
+              }
+            },
+            {
+              "name": "teamName",
+              "type": "TEAMNAME",
+              "elicitationRequired": true,
+              "confirmationRequired": false,
+              "prompts": {
+                "elicitation": "Elicit.Intent-AddPlayersToTeam.IntentSlot-teamName"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
